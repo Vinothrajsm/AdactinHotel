@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+      <class name="org.com.AdactinHotel">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="beforesuite" is-config="true" duration-ms="17" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="beforetest" is-config="true" duration-ms="0" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="beforemethod" is-config="true" duration-ms="0" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test03()[pri:-10, instance:org.com.AdactinHotel@527740a2]" name="test03" duration-ms="5" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="aftermethod" is-config="true" duration-ms="0" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="beforemethod" is-config="true" duration-ms="1" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test02()[pri:10, instance:org.com.AdactinHotel@527740a2]" name="test02" duration-ms="4" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="aftermethod" is-config="true" duration-ms="1" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="afterclass" is-config="true" duration-ms="1" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="aftertest" is-config="true" duration-ms="0" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="aftersuit()[pri:0, instance:org.com.AdactinHotel@527740a2]" name="aftersuit" is-config="true" duration-ms="1" started-at="2023-03-27T14:04:38Z" finished-at="2023-03-27T14:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- org.com.AdactinHotel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
